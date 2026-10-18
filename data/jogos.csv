@@ -300,10 +300,10 @@ rodada,data_utc,status,casa,fora,gols_casa,gols_fora
 30,2026-10-12T22:30:00Z,FINISHED,Chapecoense,Paranaense,1.0,4.0
 30,2026-10-13T00:00:00Z,FINISHED,Bragantino,Cruzeiro,4.0,2.0
 31,2026-10-16T23:00:00Z,FINISHED,Mirassol,Internacional,2.0,0.0
-31,2026-10-17T21:00:00Z,TIMED,Botafogo,Chapecoense,,
-31,2026-10-17T21:30:00Z,TIMED,Mineiro,Coritiba,,
-31,2026-10-17T22:30:00Z,TIMED,Paranaense,Palmeiras,,
-31,2026-10-18T00:00:00Z,TIMED,São Paulo,Vasco da Gama,,
+31,2026-10-17T21:00:00Z,FINISHED,Botafogo,Chapecoense,1.0,0.0
+31,2026-10-17T21:30:00Z,FINISHED,Mineiro,Coritiba,1.0,0.0
+31,2026-10-17T22:30:00Z,FINISHED,Paranaense,Palmeiras,0.0,2.0
+31,2026-10-18T00:00:00Z,FINISHED,São Paulo,Vasco da Gama,1.0,0.0
 31,2026-10-18T19:00:00Z,TIMED,Fluminense,Santos,,
 31,2026-10-18T19:00:00Z,TIMED,Grêmio,Cruzeiro,,
 31,2026-10-18T21:30:00Z,TIMED,Bahia,Flamengo,,

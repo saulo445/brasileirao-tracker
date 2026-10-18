@@ -1,0 +1,21 @@
+time,pontos_atuais,pontos_esperados,prob_campeao,prob_g6_libertadores,prob_rebaixamento,posicao_media
+Palmeiras,66,79.9,51.7,100.0,0.0,1.5
+Flamengo,64,79.4,48.3,100.0,0.0,1.5
+Fluminense,51,63.9,0.0,93.6,0.0,4.2
+Paranaense,53,63.8,0.0,95.8,0.0,4.1
+Bahia,49,60.8,0.0,72.2,0.0,5.5
+Mineiro,50,59.9,0.0,68.3,0.0,5.7
+Cruzeiro,48,59.1,0.0,59.2,0.0,6.0
+Santos,42,52.4,0.0,5.2,0.1,9.4
+Bragantino,40,51.3,0.0,2.7,0.2,9.8
+São Paulo,42,51.2,0.0,2.5,0.0,9.7
+Botafogo,39,48.6,0.0,0.4,2.3,11.6
+Coritiba,39,47.4,0.0,0.0,4.0,12.6
+Vitória,36,46.0,0.0,0.0,9.0,13.2
+Vasco da Gama,35,45.4,0.0,0.0,13.9,13.8
+Mirassol,36,44.9,0.0,0.0,16.9,14.3
+Corinthians,32,42.9,0.0,0.0,33.6,15.2
+Internacional,32,41.3,0.0,0.0,57.9,16.4
+Grêmio,31,40.8,0.0,0.0,63.3,16.6
+Clube do Remo,25,33.7,0.0,0.0,98.8,18.8
+Chapecoense,18,24.7,0.0,0.0,100.0,20.0
