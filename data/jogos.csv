@@ -304,10 +304,10 @@ rodada,data_utc,status,casa,fora,gols_casa,gols_fora
 31,2026-10-17T21:30:00Z,FINISHED,Mineiro,Coritiba,1.0,0.0
 31,2026-10-17T22:30:00Z,FINISHED,Paranaense,Palmeiras,0.0,2.0
 31,2026-10-18T00:00:00Z,FINISHED,São Paulo,Vasco da Gama,1.0,0.0
-31,2026-10-18T19:00:00Z,TIMED,Fluminense,Santos,,
-31,2026-10-18T19:00:00Z,TIMED,Grêmio,Cruzeiro,,
-31,2026-10-18T21:30:00Z,TIMED,Bahia,Flamengo,,
-31,2026-10-18T22:30:00Z,TIMED,Clube do Remo,Bragantino,,
+31,2026-10-18T19:00:00Z,FINISHED,Fluminense,Santos,1.0,2.0
+31,2026-10-18T19:00:00Z,FINISHED,Grêmio,Cruzeiro,2.0,4.0
+31,2026-10-18T21:30:00Z,FINISHED,Bahia,Flamengo,0.0,3.0
+31,2026-10-18T22:30:00Z,FINISHED,Clube do Remo,Bragantino,1.0,1.0
 31,2026-10-19T23:00:00Z,TIMED,Corinthians,Vitória,,
 32,2026-10-23T23:00:00Z,TIMED,Cruzeiro,Clube do Remo,,
 32,2026-10-24T19:30:00Z,TIMED,Internacional,Botafogo,,
@@ -325,10 +325,10 @@ rodada,data_utc,status,casa,fora,gols_casa,gols_fora
 33,2026-10-29T00:30:00Z,TIMED,Bahia,São Paulo,,
 33,2026-10-29T00:30:00Z,TIMED,Clube do Remo,Botafogo,,
 33,2026-10-29T22:30:00Z,TIMED,Mineiro,Cruzeiro,,
-33,2026-10-29T22:30:00Z,TIMED,Coritiba,Vitória,,
 33,2026-10-29T23:00:00Z,TIMED,Vasco da Gama,Flamengo,,
 33,2026-10-30T00:30:00Z,TIMED,Grêmio,Paranaense,,
 33,2026-10-30T23:00:00Z,TIMED,Corinthians,Mirassol,,
+33,2026-10-31T19:00:00Z,TIMED,Coritiba,Vitória,,
 34,2026-11-02T23:00:00Z,TIMED,Bragantino,Santos,,
 34,2026-11-03T22:30:00Z,TIMED,Chapecoense,Mirassol,,
 34,2026-11-04T00:30:00Z,TIMED,Internacional,Coritiba,,
