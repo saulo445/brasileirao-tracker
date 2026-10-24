@@ -309,7 +309,7 @@ rodada,data_utc,status,casa,fora,gols_casa,gols_fora
 31,2026-10-18T21:30:00Z,FINISHED,Bahia,Flamengo,0.0,3.0
 31,2026-10-18T22:30:00Z,FINISHED,Clube do Remo,Bragantino,1.0,1.0
 31,2026-10-19T23:00:00Z,FINISHED,Corinthians,Vitória,1.0,1.0
-32,2026-10-23T23:00:00Z,TIMED,Cruzeiro,Clube do Remo,,
+32,2026-10-23T23:00:00Z,FINISHED,Cruzeiro,Clube do Remo,1.0,0.0
 32,2026-10-24T19:30:00Z,TIMED,Internacional,Botafogo,,
 32,2026-10-24T19:30:00Z,TIMED,Mirassol,São Paulo,,
 32,2026-10-24T19:30:00Z,TIMED,Vitória,Paranaense,,
