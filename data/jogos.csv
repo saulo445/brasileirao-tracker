@@ -319,11 +319,11 @@ rodada,data_utc,status,casa,fora,gols_casa,gols_fora
 32,2026-10-25T01:00:00Z,FINISHED,Santos,Bahia,1.0,1.0
 32,2026-10-26T22:30:00Z,FINISHED,Coritiba,Grêmio,0.0,1.0
 32,2026-10-26T23:00:00Z,FINISHED,Flamengo,Mineiro,3.0,2.0
-33,2026-10-28T22:30:00Z,TIMED,Bragantino,Chapecoense,,
-33,2026-10-28T22:30:00Z,TIMED,Fluminense,Internacional,,
-33,2026-10-28T22:30:00Z,TIMED,Santos,Palmeiras,,
-33,2026-10-29T00:30:00Z,TIMED,Bahia,São Paulo,,
-33,2026-10-29T00:30:00Z,TIMED,Clube do Remo,Botafogo,,
+33,2026-10-28T22:30:00Z,FINISHED,Bragantino,Chapecoense,3.0,0.0
+33,2026-10-28T22:30:00Z,FINISHED,Fluminense,Internacional,2.0,1.0
+33,2026-10-28T22:30:00Z,FINISHED,Santos,Palmeiras,0.0,0.0
+33,2026-10-29T00:30:00Z,FINISHED,Bahia,São Paulo,3.0,2.0
+33,2026-10-29T00:30:00Z,FINISHED,Clube do Remo,Botafogo,2.0,1.0
 33,2026-10-29T22:30:00Z,TIMED,Mineiro,Cruzeiro,,
 33,2026-10-29T23:00:00Z,TIMED,Vasco da Gama,Flamengo,,
 33,2026-10-30T00:30:00Z,TIMED,Grêmio,Paranaense,,
