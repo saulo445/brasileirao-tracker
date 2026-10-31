@@ -327,7 +327,7 @@ rodada,data_utc,status,casa,fora,gols_casa,gols_fora
 33,2026-10-29T22:30:00Z,FINISHED,Mineiro,Cruzeiro,0.0,1.0
 33,2026-10-29T23:00:00Z,FINISHED,Vasco da Gama,Flamengo,1.0,4.0
 33,2026-10-30T00:30:00Z,FINISHED,Grêmio,Paranaense,2.0,0.0
-33,2026-10-30T23:00:00Z,TIMED,Corinthians,Mirassol,,
+33,2026-10-30T23:00:00Z,FINISHED,Corinthians,Mirassol,2.0,0.0
 33,2026-10-31T19:00:00Z,TIMED,Coritiba,Vitória,,
 34,2026-11-02T23:00:00Z,TIMED,Bragantino,Santos,,
 34,2026-11-03T22:30:00Z,TIMED,Chapecoense,Mirassol,,
