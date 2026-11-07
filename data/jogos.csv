@@ -337,7 +337,7 @@ rodada,data_utc,status,casa,fora,gols_casa,gols_fora
 34,2026-11-05T00:30:00Z,FINISHED,São Paulo,Corinthians,0.0,0.0
 34,2026-11-05T22:30:00Z,FINISHED,Palmeiras,Clube do Remo,6.0,1.0
 34,2026-11-06T00:30:00Z,FINISHED,Cruzeiro,Bahia,3.0,2.0
-34,2026-11-06T23:00:00Z,TIMED,Vitória,Fluminense,,
+34,2026-11-06T23:00:00Z,FINISHED,Vitória,Fluminense,0.0,3.0
 35,2026-11-14T21:30:00Z,TIMED,Mirassol,Mineiro,,
 21,2026-11-14T23:30:00Z,TIMED,Chapecoense,Vasco da Gama,,
 35,2026-11-18T22:30:00Z,TIMED,Coritiba,Santos,,
