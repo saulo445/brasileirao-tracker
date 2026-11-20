@@ -342,13 +342,13 @@ rodada,data_utc,status,casa,fora,gols_casa,gols_fora
 21,2026-11-14T23:30:00Z,FINISHED,Chapecoense,Vasco da Gama,0.0,2.0
 35,2026-11-18T22:30:00Z,FINISHED,Coritiba,Santos,0.0,1.0
 35,2026-11-18T23:00:00Z,FINISHED,Clube do Remo,Chapecoense,2.0,0.0
-35,2026-11-18T23:30:00Z,IN_PLAY,Cruzeiro,Palmeiras,1.0,1.0
-35,2026-11-18T23:30:00Z,IN_PLAY,Flamengo,Paranaense,2.0,1.0
-35,2026-11-19T00:30:00Z,IN_PLAY,Corinthians,Botafogo,2.0,0.0
-35,2026-11-19T00:30:00Z,IN_PLAY,Grêmio,Bahia,0.0,0.0
-35,2026-11-19T22:30:00Z,TIMED,Vasco da Gama,Internacional,,
-35,2026-11-19T22:30:00Z,TIMED,Vitória,Bragantino,,
-35,2026-11-20T00:30:00Z,TIMED,São Paulo,Fluminense,,
+35,2026-11-18T23:30:00Z,FINISHED,Cruzeiro,Palmeiras,2.0,1.0
+35,2026-11-18T23:30:00Z,FINISHED,Flamengo,Paranaense,2.0,1.0
+35,2026-11-19T00:30:00Z,FINISHED,Corinthians,Botafogo,4.0,0.0
+35,2026-11-19T00:30:00Z,FINISHED,Grêmio,Bahia,0.0,0.0
+35,2026-11-19T22:30:00Z,FINISHED,Vasco da Gama,Internacional,2.0,1.0
+35,2026-11-19T22:30:00Z,FINISHED,Vitória,Bragantino,2.0,1.0
+35,2026-11-20T00:30:00Z,FINISHED,São Paulo,Fluminense,0.0,1.0
 36,2026-11-21T19:30:00Z,TIMED,Palmeiras,Flamengo,,
 36,2026-11-21T20:30:00Z,TIMED,Bahia,Coritiba,,
 36,2026-11-22T00:00:00Z,TIMED,Chapecoense,Cruzeiro,,
