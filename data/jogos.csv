@@ -349,9 +349,9 @@ rodada,data_utc,status,casa,fora,gols_casa,gols_fora
 35,2026-11-19T22:30:00Z,FINISHED,Vasco da Gama,Internacional,2.0,1.0
 35,2026-11-19T22:30:00Z,FINISHED,Vitória,Bragantino,2.0,1.0
 35,2026-11-20T00:30:00Z,FINISHED,São Paulo,Fluminense,0.0,1.0
-36,2026-11-21T19:30:00Z,TIMED,Palmeiras,Flamengo,,
-36,2026-11-21T20:30:00Z,TIMED,Bahia,Coritiba,,
-36,2026-11-22T00:00:00Z,TIMED,Chapecoense,Cruzeiro,,
+36,2026-11-21T19:30:00Z,FINISHED,Palmeiras,Flamengo,1.0,1.0
+36,2026-11-21T20:30:00Z,FINISHED,Bahia,Coritiba,0.0,1.0
+36,2026-11-22T00:00:00Z,FINISHED,Chapecoense,Cruzeiro,1.0,2.0
 36,2026-11-22T19:00:00Z,TIMED,Paranaense,Clube do Remo,,
 36,2026-11-22T21:30:00Z,TIMED,Fluminense,Mirassol,,
 36,2026-11-22T22:30:00Z,TIMED,Bragantino,Vasco da Gama,,
